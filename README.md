@@ -70,22 +70,17 @@ Specifically, let's say there is a list of Chromosome Intervals, and we want to 
 
 Navigate to **Home** page and copy _Test BPS Segments_
 
-<img src="img
-/Screen_Shot_2021-09-22_at_10.20.55_AM.png" width="250" height="250"/>
+<img src="img/Screen_Shot_2021-09-22_at_10.20.55_AM.png" width="250" height="250"/>
 
-![Screen Shot 2021-09-22 at 10.21.07 AM.png](img
-/Screen_Shot_2021-09-22_at_10.21.07_AM.png)
+![Screen Shot 2021-09-22 at 10.21.07 AM.png](img/Screen_Shot_2021-09-22_at_10.21.07_AM.png)
 
-![Screen Shot 2021-09-22 at 10.21.42 AM.png](img
-/Screen_Shot_2021-09-22_at_10.21.42_AM.png)
+![Screen Shot 2021-09-22 at 10.21.42 AM.png](img/Screen_Shot_2021-09-22_at_10.21.42_AM.png)
 
-![Screen Shot 2021-09-22 at 10.23.15 AM.png](img
-/Screen_Shot_2021-09-22_at_10.23.15_AM.png)
+![Screen Shot 2021-09-22 at 10.23.15 AM.png](img/Screen_Shot_2021-09-22_at_10.23.15_AM.png)
 
 Click on BPS tab on the left to see the search results, that can be downloaded as a JSON file
 
-![Screen Shot 2021-09-22 at 10.23.04 AM.png](img
-/Screen_Shot_2021-09-22_at_10.23.04_AM.png)
+![Screen Shot 2021-09-22 at 10.23.04 AM.png](img/Screen_Shot_2021-09-22_at_10.23.04_AM.png)
 
 **Features**
 
