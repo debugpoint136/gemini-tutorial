@@ -56,11 +56,36 @@ On the menu on the right, click on **Radius Selector**
 
 <img src="img/Screen_Shot_2021-09-22_at_9.43.45_AM.png" width="250" height="250"/>
 
-![Screen Shot 2021-09-22 at 9.44.09 AM.png](img/Screen_Shot_2021-09-22_at_9.44.09_AM.png) {:height="50%" width="50%"}
+![Screen Shot 2021-09-22 at 9.44.09 AM.png](img/Screen_Shot_2021-09-22_at_9.44.09_AM.png)
 
 ![Screen Shot 2021-09-22 at 9.44.20 AM.png](img/Screen_Shot_2021-09-22_at_9.44.20_AM.png)
 
 ![Screen Shot 2021-09-22 at 9.44.43 AM.png](img/Screen_Shot_2021-09-22_at_9.44.43_AM.png)
+
+### Multiple Radius Selector = Base pair series
+
+Let's build upon the previous feature. Say we want to perform this selection, but across a set of spatial points.
+
+Specifically, let's say there is a list of Chromosome Intervals, and we want to locate them in the 3D space, and scoop out a spherical region around those points, with a flexible radius.
+
+Navigate to **Home** page and copy _Test BPS Segments_
+
+<img src="img
+/Screen_Shot_2021-09-22_at_10.20.55_AM.png" width="250" height="250"/>
+
+![Screen Shot 2021-09-22 at 10.21.07 AM.png](img
+/Screen_Shot_2021-09-22_at_10.21.07_AM.png)
+
+![Screen Shot 2021-09-22 at 10.21.42 AM.png](img
+/Screen_Shot_2021-09-22_at_10.21.42_AM.png)
+
+![Screen Shot 2021-09-22 at 10.23.15 AM.png](img
+/Screen_Shot_2021-09-22_at_10.23.15_AM.png)
+
+Click on BPS tab on the left to see the search results, that can be downloaded as a JSON file
+
+![Screen Shot 2021-09-22 at 10.23.04 AM.png](img
+/Screen_Shot_2021-09-22_at_10.23.04_AM.png)
 
 **Features**
 
