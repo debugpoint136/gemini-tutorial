@@ -21,26 +21,30 @@ From the start screen that you see, there are 3 steps to start using GEMINI
 2. Click on **Browser View** on the top nav bar
 3. Pick `hg38`
 4. Tracks → Custom Tracks → Add Custom Datahub
+
+   ![2.png](img/2.png)
+
 5. Paste the URL and add all the tracks
 6. Navigate back to **Home** and copy _Test View Region_
+
+   ![3.png](img/3.png)
+
 7. Paste the view region in Browser View and load for the browser to complete loading data for all tracks
 8. Navigate to **Track Selection**
 9. You should see a list of the tracks that were loaded through the datahub
 10. Select All
 11. Navigate to **Input structure Data**
-12. Copy the default structure example data and wait for the structure to complete loading
-13. Navigate to **3D View**
-14. Hit the green **Render** on the top right of nav bar
 
-![test](img/Screen_Shot_2021-09-21_at_9.54.41_PM.png)
+    > Copy the default structure example data and wait for the structure to complete loading
 
-![Start screen](img/2.png 'Start Screen')
+    ![4.png](img/4.png)
 
-![Start screen](img/3.png 'Start Screen')
+12. Navigate to **3D View**
+13. Hit the green **Render** on the top right of nav bar
 
-![Start screen](img/4png 'Start Screen')
+![5.png](img/5.png)
 
-![Start screen](img/5.png 'Start Screen')
+![Screen Shot 2021-09-21 at 9.54.41 PM.png](img/Screen_Shot_2021-09-21_at_9.54.41_PM.png)
 
 ---
 
