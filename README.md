@@ -42,11 +42,25 @@ From the start screen that you see, there are 3 steps to start using GEMINI
 12. Navigate to **3D View**
 13. Hit the green **Render** on the top right of nav bar
 
-![5.png](img/5.png)
+You should see a view like this:
 
-![Screen Shot 2021-09-21 at 9.54.41 PM.png](img/Screen_Shot_2021-09-21_at_9.54.41_PM.png)
+![Screen Shot 2021-09-22 at 9.45.31 AM.png](img/Screen_Shot_2021-09-22_at_9.45.31_AM.png)
 
 ---
+
+### SELECTORS or 3D Space Queries
+
+We will start with a basic type of space selector called **Radius Selector**
+
+On the menu on the right, click on **Radius Selector**
+
+![Screen Shot 2021-09-22 at 9.43.45 AM.png](img/Screen_Shot_2021-09-22_at_9.43.45_AM.png)
+
+![Screen Shot 2021-09-22 at 9.44.09 AM.png](img/Screen_Shot_2021-09-22_at_9.44.09_AM.png)
+
+![Screen Shot 2021-09-22 at 9.44.20 AM.png](img/Screen_Shot_2021-09-22_at_9.44.20_AM.png)
+
+![Screen Shot 2021-09-22 at 9.44.43 AM.png](img/Screen_Shot_2021-09-22_at_9.44.43_AM.png)
 
 **Features**
 
