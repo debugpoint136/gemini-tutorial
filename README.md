@@ -90,7 +90,7 @@ Let's save the current chromosome model into the genome level space by clicking 
 
 The result is the transposed chromosome model in the genome level space.
 
-<img src="img/STG_Demo_2.png" width="250" height="250"/>
+<img src="img/STG_Demo_2.png" />
 
 ### Genome Base Pair Selector
 
@@ -98,11 +98,11 @@ We will now render a view region in chromosome 8 by repeating the rendering proc
 
 Genome View should have both chromosome 7 and 8 rendered as a result.
 
-<img src="img/GenBPS_Demo_2.png" width="250" height="250" />
+<img src="img/GenBPS_Demo_2.png" />
 
 Input a string of view region segments like in the chromosome level base pair selector, except the string inputted here can contain segments from multiple chromosomes. This will be the result.
 
-<img src="img/GenBPS_Demo_3.png" width="250" height="250" />
+<img src="img/GenBPS_Demo_3.png" />
 
 **Features**
 
