@@ -56,7 +56,7 @@ On the menu on the right, click on **Radius Selector**
 
 ![Screen Shot 2021-09-22 at 9.43.45 AM.png](img/Screen_Shot_2021-09-22_at_9.43.45_AM.png)
 
-![Screen Shot 2021-09-22 at 9.44.09 AM.png](img/Screen_Shot_2021-09-22_at_9.44.09_AM.png)
+![Screen Shot 2021-09-22 at 9.44.09 AM.png](img/Screen_Shot_2021-09-22_at_9.44.09_AM.png) {:height="50%" width="50%"}
 
 ![Screen Shot 2021-09-22 at 9.44.20 AM.png](img/Screen_Shot_2021-09-22_at_9.44.20_AM.png)
 
