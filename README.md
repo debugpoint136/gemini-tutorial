@@ -54,7 +54,7 @@ We will start with a basic type of space selector called **Radius Selector**
 
 On the menu on the right, click on **Radius Selector**
 
-<img src="img/Screen_Shot_2021-09-22_at_9.43.45_AM.png" width="100" height="100"/>
+<img src="img/Screen_Shot_2021-09-22_at_9.43.45_AM.png" width="250" height="250"/>
 
 ![Screen Shot 2021-09-22 at 9.44.09 AM.png](img/Screen_Shot_2021-09-22_at_9.44.09_AM.png) {:height="50%" width="50%"}
 
