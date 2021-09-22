@@ -78,7 +78,7 @@ Navigate to **Home** page and copy _Test BPS Segments_
 
 ![BPS_Demo_2.png](img/BPS_Demo_2.png)
 
-Click on BPS tab on the left to see the search results, that can be downloaded as a JSON file
+Click on Sort History tab on the console to see the search results, that can be downloaded as a JSON file
 
 ![Screen Shot 2021-09-22 at 10.23.04 AM.png](img/Screen_Shot_2021-09-22_at_10.23.04_AM.png)
 
