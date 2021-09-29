@@ -73,15 +73,37 @@ Navigate to **Home** page and copy _Test BPS Segments_
 
 <img src="img/Screen_Shot_2021-09-22_at_10.20.55_AM.png" width="250" height="250"/>
 
-![Screen Shot 2021-09-22 at 10.21.07 AM.png](img/Screen_Shot_2021-09-22_at_10.21.07_AM.png)
+![BPS_Demo_3.png](img/BPS_Demo_3.png)
 
-![Screen Shot 2021-09-22 at 10.21.42 AM.png](img/Screen_Shot_2021-09-22_at_10.21.42_AM.png)
+![BPS_Demo_1.png](img/BPS_Demo_1.png)
 
-![Screen Shot 2021-09-22 at 10.23.15 AM.png](img/Screen_Shot_2021-09-22_at_10.23.15_AM.png)
+![BPS_Demo_2.png](img/BPS_Demo_2.png)
 
-Click on BPS tab on the left to see the search results, that can be downloaded as a JSON file
+Click on Sort History tab on the console to see the search results, that can be downloaded as a JSON file
 
 ![Screen Shot 2021-09-22 at 10.23.04 AM.png](img/Screen_Shot_2021-09-22_at_10.23.04_AM.png)
+
+### Save To Genome
+
+Let's save the current chromosome model into the genome level space by clicking the Save To Genome Button.
+
+<img src="img/STG_Demo.png" width="250" height="250"/>
+
+The result is the transposed chromosome model in the genome level space.
+
+<img src="img/STG_Demo_2.png" />
+
+### Genome Base Pair Selector
+
+We will now render a view region in chromosome 8 by repeating the rendering process above, and clicking Save To Genome in that model.
+
+Genome View should have both chromosome 7 and 8 rendered as a result.
+
+<img src="img/GenBPS_Demo_2.png" />
+
+Input a string of view region segments like in the chromosome level base pair selector, except the string inputted here can contain segments from multiple chromosomes. This will be the result.
+
+<img src="img/GenBPS_Demo_3.png" />
 
 **Features**
 
