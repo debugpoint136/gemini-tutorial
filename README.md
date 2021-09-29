@@ -4,7 +4,8 @@
 
 **open this URL :**
 
-[https://gemini-dpuru-debugpoint136.vercel.app/](https://gemini-dpuru-debugpoint136.vercel.app/)
+[https://gemini-pollux.vercel.app/](https://gemini-pollux.vercel.app/)
+[https://gemini-castor.vercel.app/](https://gemini-castor.vercel.app/)
 
 ![Start screen](img/1.png 'Start Screen')
 
@@ -19,7 +20,7 @@ From the start screen that you see, there are 3 steps to start using GEMINI
 
 1. Copy the datahub example link that has _4 BigWig, 1 HiC_
 2. Click on **Browser View** on the top nav bar
-3. Pick `hg38`
+3. Pick `hg19`
 4. Tracks → Custom Tracks → Add Custom Datahub
 
    ![2.png](img/2.png)
