@@ -1,11 +1,15 @@
 # Tutorial
 
+## GEMINI apps
+
+- [https://gemini-pollux.vercel.app/](https://gemini-pollux.vercel.app/)
+- [https://gemini-castor.vercel.app/](https://gemini-castor.vercel.app/)
+
 **GEMINI follow-along hands-on workshop**
 
 **open this URL :**
 
 - [https://gemini-pollux.vercel.app/](https://gemini-pollux.vercel.app/)
-- [https://gemini-castor.vercel.app/](https://gemini-castor.vercel.app/)
 
 ![Start screen](img/1.png 'Start Screen')
 
